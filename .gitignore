@@ -1,0 +1,17 @@
+# TLS/private keys and generated cert data
+*.key
+*.srl
+*.crt
+
+# Runtime reservation state
+seats.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
